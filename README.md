@@ -17,6 +17,13 @@ $ ./build/bin/pcl_converter -c ./model/source.obj ./results/dest.pcd
 ![hallway.png](https://github.com/HugoNip/ObjLoader2.0v/blob/master/figures/hallway.png)
 
 ### Output
+```
+$ ./build/bin/pcl_converter -c ./model/source.obj ./results/dest.pcd
+Loaded a mesh with 5100 points (total size is 244800) and the following channels:
+x y z normal_x normal_y normal_z curvature
+Saving file ./results/havl.pcd as binary.
+```
+
 
 ![pcl1.png](https://github.com/HugoNip/ObjLoader2.0v/blob/master/figures/pcl1.png)
 
