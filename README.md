@@ -12,6 +12,10 @@ Compile the code and run following command:
 ```
 $ ./build/bin/pcl_converter -c ./model/source.obj ./results/dest.pcd
 ```
+### Input
+
+![hallway.png](https://github.com/HugoNip/ObjLoader2.0v/blob/master/figures/hallway.png)
+
 ### Output
 
 ![pcl1.png](https://github.com/HugoNip/ObjLoader2.0v/blob/master/figures/pcl1.png)
