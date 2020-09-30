@@ -7,10 +7,21 @@ Source code location: ./path/to/pcl/io/tools/converter.cpp
 
 **converter.cpp** converts OBJ, PCD, PLY, STL, VTK files containing point clouds or meshes into every other format. This tool allows to specify the file output type between ASCII, binary and binary compressed.
 
-Compile the code and run following command:
+Compile the code:
 
 ```
-$ ./build/bin/pcl_converter -c ./model/source.obj ./results/dest.pcd
+$ cd /path/to/pcl/
+$ mkdir build
+$ cd build
+$ cmake ..
+$ make -j 16
+```
+
+Then, run following command:
+
+```
+$ cd ~
+$ pcl_converter -c ./path/to/source.obj ./path/to/dest.pcd
 ```
 ### Input
 
