@@ -1,4 +1,4 @@
-# How to Convert OBj to Point Cloud
+# How to Convert OBJ to Point Cloud
 
 ## Point Cloud Library (PCL)
 
