@@ -14,7 +14,7 @@ $ ./build/bin/pcl_converter -c ./model/source.obj ./results/dest.pcd
 ```
 ### Output
 
-![]()
+![pcl1.png](https://github.com/HugoNip/ObjLoader2.0v/blob/master/figures/pcl1.png)
 
 
 
