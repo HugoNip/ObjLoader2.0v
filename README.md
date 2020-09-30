@@ -1,1 +1,15 @@
-# ObjLoader2.1v
+# How to Convert OBj to Point Cloud
+
+## Point Cloud Library (PCL)
+
+Compile the code and run following command:
+
+```
+$ ./build/bin/pcl_converter -c ./model/source.obj ./results/dest.pcd
+```
+
+
+
+
+## Download
+[**PCL**](https://github.com/PointCloudLibrary/pcl)    
